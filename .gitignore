@@ -1,0 +1,8 @@
+# Ignorar pastas do Visual Studio / C#
+bin/
+obj/
+.vs/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
